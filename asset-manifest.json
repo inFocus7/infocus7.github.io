@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/infocus7.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/infocus7.github.io/static/js/main.4a06a94f.chunk.js",
+    "main.js.map": "/infocus7.github.io/static/js/main.4a06a94f.chunk.js.map",
+    "runtime-main.js": "/infocus7.github.io/static/js/runtime-main.d359f8c1.js",
+    "runtime-main.js.map": "/infocus7.github.io/static/js/runtime-main.d359f8c1.js.map",
+    "static/js/2.2d8941fc.chunk.js": "/infocus7.github.io/static/js/2.2d8941fc.chunk.js",
+    "static/js/2.2d8941fc.chunk.js.map": "/infocus7.github.io/static/js/2.2d8941fc.chunk.js.map",
+    "index.html": "/infocus7.github.io/index.html",
+    "precache-manifest.86fab5bc9f000b006e67c4873728ebb7.js": "/infocus7.github.io/precache-manifest.86fab5bc9f000b006e67c4873728ebb7.js",
+    "service-worker.js": "/infocus7.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/infocus7.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2d8941fc.chunk.js.LICENSE.txt": "/infocus7.github.io/static/js/2.2d8941fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/infocus7.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d359f8c1.js",
+    "static/js/2.2d8941fc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4a06a94f.chunk.js"
+  ]
+}
